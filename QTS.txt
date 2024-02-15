@@ -77,3 +77,23 @@ Mapa de """"São Paulo""""}
 	2, Logico-Matemática
 	3. Visuo-Espacial
 - Levar em consideração isso ao cliente
+
+Neuroticismo
+
+Facetas{
+    - Autoconsciência
+    - Impulsividade
+    - Vulnerabilidade
+    - Ansiedade
+    - Hostilidade
+    - Depressão (pedindo pica)
+}
+
+Facetas da amabilidade{
+    - Confiança
+    - Fraqueza
+    - Altruismo
+    - Complacência
+    - Modéstia
+    - Sensibilidade
+}
