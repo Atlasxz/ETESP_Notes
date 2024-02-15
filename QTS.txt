@@ -1,0 +1,79 @@
+QTS fml
+
+- Incentivinhos sobre cursos EAD (alguns free no Teams)
+- PDF sobre atribuições e responsabilidades dos DS'ers
+
+Valores e Atitudes (UNESCO & UCDE){
+	- Fortalecer persistência e interesse
+	- Estimular organização (TDAH chora)
+	- BORA SER CRIATIVO AEEE
+}
+
+Competência e habilidades dos DS'ers{
+	- Avaliar e selecionar técnicas de teste software
+-------------------------------
+	- Utilizar softwares de apoio
+	- "Teste de mesa" (benchmark?)
+	- Verificar e validar (e comparar) 
+	  especificações e produto testado
+	- Termo de "não sou mais responsável, se vira <3"
+	- "TÁ BOM OU NÃO?!?!?"
+}
+
+Bases tecnológicas{
+	- Qualidade de Software
+		- CMMI, MRS.BR
+	- Testes dos mesmos
+	- Processo de teste
+	- Ferramentas e execução de testes
+
+	- Organização de manual sobre o software 
+		- em caso de troca de cargo etc.
+		- importância do comentário vem forte
+		- sem "se virar" aeeeeeee
+	- Recomendação do Uso do GPT (!??!?!)
+		- Uso de palavras chaves para melhores resultados
+		- Analogia com o manual do software
+			- Quanto + simples, melhor
+	- Automação de testes
+}
+
+Conteúdo programático{
+	- O que entregarmos para o bombs, tem que entregar pra ele avaliar
+	- TCC valendo nota pra krlh agora ehhhhh 
+}
+
+Metodologia{
+	1. Organização do fórum avaliativo de participação do aluno
+	2. Leitura e análise da documentação para resolução dos problemas
+	de simuladores em repositório de dados
+'	3. Esclarecimento de info via chat ou post
+}
+
+Critérios de avaliação{
+	1. Exercício de fixação de conceitos
+	Estudos dirigidos
+	2. Identificação de problemas pessoas de codigo
+	3. TCC GOESSS BURRRRR	
+}
+
+Mapa de """"São Paulo""""}
+	- Mapa de metodologia
+	- Parece mt o mapa metroviárioKKKKKKKKKKKKKKKK
+		- Alá Guaianases
+	- Alguém fez um puta gráfico das metodologias
+		- Caótico, mas fofo
+	- Separado em setores de iniciação, descobrimento, entrega, etc.
+	- "The Agile Landscape V1.pdf"
+	- Fazer pressão no amiguinho até surtar
+}
+
+- WATERFALL VEM AI?!!??
+- Fluxograma de planejamento
+	- Separado em atividades importantes
+
+- Inteligência Multiplas
+	1. Linguistica
+	2, Logico-Matemática
+	3. Visuo-Espacial
+- Levar em consideração isso ao cliente
