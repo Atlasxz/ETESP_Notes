@@ -61,5 +61,51 @@ Pilhas
 - A, AA, AAA;
 - O ácido que fica dentro da pilha leva a nuvem de elétrons dependendo do seu estado
 
+Corrente != Volts
+Vazão != Pressão
+
+Medimos as cargas em volts
+
+Separamos as cargas para ter Diferencial de Potência (DDP)
+Para depois juntarmos elas de novo
+
+Ampere -> a ligação entre as "poças" de polo
+
+Potencia = Volts * Ampere == Watts
+
+"No final, eu comprei um BELO aparelho"
+- Luiz Rubens Filho
+
+Corrente Alternata- C.A - A.C
+Corrente Contínua - C.C - D.C
+
+ ________________
+/		 \
+|O		O|
+|	O	 |
+\________________/
+
+Neutro -> Retorno
+Fase -> 127+ & 127-
+Do Meio -> Fio terra
+
+Ocilatometro
+- Pega ocilação das voltagens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
