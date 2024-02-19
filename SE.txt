@@ -6,3 +6,20 @@
 - Mostrando os baguio de conduit
 - Nostalgia do 6º ano (sdds Prof. Junior)
 - Aula de robótica goess burrrrrrrrrrrrrrrrrrrrrr
+
+- Amostragem dos tipos de placas
+	- Com placa de LCD
+	- Com um switch
+	- Oto que esqueci
+
+- Circuitos (pilhas) em série
+	- Se somam as potências
+
+- TINKERCAD COMES BACK!!!!!!
+- Resistores
+	- Código de cores varia de acordo com o tipo de resistência do circuito
+
+Microcontroladores
+- Tudo embutido, com a CPU fora
+	- Diferente do PC que é tudo ""encaixado""
+
