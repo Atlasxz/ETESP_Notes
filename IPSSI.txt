@@ -104,6 +104,9 @@ Redes de Computadores
 	    - Fins Militares
 		- 1º Comunicação foi entre duas universidades nos EUA
 		- Trocar informações entre as bases militares
+	    🤓☝ - "Consiste de dois ou mais equipamentos conectados com 
+	           a finalidade de trocar informações 
+	           ou compartilhar serviços/recursos"
 
 	- O que é? e como funciona a internet?
 	
