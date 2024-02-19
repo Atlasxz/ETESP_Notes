@@ -92,6 +92,10 @@ Do Meio -> Fio terra
 Ocilatometro
 - Pega ocilação das voltagens
 
+Planalto e Depressão das corrente
+- Ficam ocilando (isso que o Ocilatometro mostra) 
+
+
 
 
 
