@@ -93,7 +93,8 @@ Ocilatometro
 - Pega ocilação das voltagens
 
 Planalto e Depressão das corrente
-- Ficam ocilando (isso que o Ocilatometro mostra) 
+- Ficam ocilando (isso que o Ocilatometro mostra)
+ 
 
 
 
