@@ -12,12 +12,75 @@ SSI
 - Filmes
 	- Prenda-me se for capaz
 	- Detona Ralph
-
+	- Hackers (Angeline Jolie
 - Trabalho
 	- Pegar senha de bicho
 	- Engenharia social
 
 - Carteiras anti-RFID
 
+------------------------------------------------------------------------
 
+Redes de Computadores
 
+    Critérios Avaliativos
+
+	Trabalhos
+	- Escritos e/ou apresentados
+
+	Avaliações
+	- Teóricas e/ou práticas | Individuais
+
+    O que será visto?
+	
+	- Topologia
+	  - IP
+	  - Estrutura da rede
+	- Tipos
+	  - Rede anel, estrela (/)
+	- Equipamentos
+	- Protocolos
+	- Meios de transmissão
+   
+    Introdução
+	Comunicação
+	    - Uma das maiores necessidades humanas
+
+	Problema
+	    - Populações diversas
+
+	Soluções iniciais
+	    - Sinais de fumaça, pombo-correio etc.
+
+	1838, Samuel F.B. Morse
+
+	Telégrafo
+	    - Inicio das novas comunicações
+	    - Mensagens codificadas em cadeias de símbolos binários
+	    - Transmissão através de dispositivos gerador de 
+	      Pulso elétricos
+	Atualidade
+	    Comunicação X Processamento de informações
+
+    Mainframe Terminal
+	- As primeiras comunicações eram feitas através
+	  de um sistema Mainframe Terminal
+	- Terminais Burros 
+	     - Só recebem os dados
+	- Conceito mais básico de redes (na época)
+	
+	Características do Mainframe Terminal
+	    - Computador de grande porte centralizado
+	    - Os recursos do computador central (mainframe) 
+	      são compartilhados por vários usuários (time-sharing)
+	    - Os terminais não possuíam poder computacional
+	      sua função básica era de interface
+	    - A interligação era feita por meio de uma 
+              linha de comunicação de baixa velocidade	
+	    - Todo processamento relevante era executado no mainframe
+
+     Inicio da mudança
+	- Surgimento do microcomputador
+	- Implementação de redes de computadores
+	  com um custo muito menor
+	- Downsizing 	
