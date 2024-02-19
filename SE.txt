@@ -20,13 +20,46 @@
 	- Código de cores varia de acordo com o tipo de resistência do circuito
 
 Microcontroladores
-- Tudo embutido, com a CPU fora
-	- Diferente do PC que é tudo ""encaixado""
+- Tudo embutido
+	- Diferente do PC que é tudo ""encaixado"" a parte
 
 Fontes
 
 - Arduino usa 7V - 12V
 
 - LED Branco -> Prêmio Nobel
+
+LED
+
+- Catodo e anodo
+- Diferente da lâmpada, ele possui polaridade
+
+Multímetro
+- Mede diferentes tipos de energia em qualquer coisa
+	- Resistência (Ohms[Ω])
+	- Voltagem (V[oltagem])	
+	- Amperagem (A[mperes])
+
+"É xing ling"
+- Luiz Rubens Filho, 2024
+
+
+
+Rubião passou o plug em geral - 19/02/2024
+
+Eletricidade
+-> Atrito
+	-> Pode chegar a milhões de volts
+	-> RAIOS!!
+-> Campo eletromagnetico
+-> Químico
+
+Tabela triboelétrica
+	- Tabela que mostra o quão sucetivo o material é a cada polo dependendo do material
+
+Pilhas
+- A, AA, AAA;
+- O ácido que fica dentro da pilha leva a nuvem de elétrons dependendo do seu estado
+
 
 
