@@ -84,3 +84,27 @@ Redes de Computadores
 	- Implementação de redes de computadores
 	  com um custo muito menor
 	- Downsizing 	
+
+     Redes de computadores
+	- História do mesmo
+	    - Para destruir um pais, derrubamos mtscoisas
+		- Combustivel
+		- Munições
+	    - Comunicação
+		- A internet é uma EVOLUÇÃO da ArpaNet
+
+ 
+	- O que é uma rede de computadores?
+	    - Precisa-se de?
+		- Um remetente
+		- E um destinatário
+	    - E é trocado informação entre eles
+	    - A rede não está mais restrita a um computador
+	    - Logo agora é uma troca entre dispositivos
+	    - Fins Militares
+		- 1º Comunicação foi entre duas universidades nos EUA
+		- Trocar informações entre as bases militares
+
+	- O que é? e como funciona a internet?
+	
+    
