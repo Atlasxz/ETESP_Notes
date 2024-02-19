@@ -23,3 +23,10 @@ Microcontroladores
 - Tudo embutido, com a CPU fora
 	- Diferente do PC que é tudo ""encaixado""
 
+Fontes
+
+- Arduino usa 7V - 12V
+
+- LED Branco -> Prêmio Nobel
+
+
