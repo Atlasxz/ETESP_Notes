@@ -10,7 +10,14 @@ IP
 SSI
 - Kali Linux
 - Filmes
+	- Prenda-me se for capaz
+	- Detona Ralph
+
 - Trabalho
+	- Pegar senha de bicho
+	- Engenharia social
 
 - Carteiras anti-RFID
+
+
 
