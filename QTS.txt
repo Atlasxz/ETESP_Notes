@@ -207,3 +207,212 @@ Processo de Testes de Software
 	https://pt.wikipedia.org/wiki/D%C3%ADgito_verificador
 
 - Teste de integração
+QTS fml
+
+- Incentivinhos sobre cursos EAD (alguns free no Teams)
+- PDF sobre atribuições e responsabilidades dos DS'ers
+
+Valores e Atitudes (UNESCO & UCDE){
+	- Fortalecer persistência e interesse
+	- Estimular organização (TDAH chora)
+	- BORA SER CRIATIVO AEEE
+}
+
+Competência e habilidades dos DS'ers{
+	- Avaliar e selecionar técnicas de teste software
+-------------------------------
+	- Utilizar softwares de apoio
+	- "Teste de mesa" (benchmark?)
+	- Verificar e validar (e comparar) 
+	  especificações e produto testado
+	- Termo de "não sou mais responsável, se vira <3"
+	- "TÁ BOM OU NÃO?!?!?"
+}
+
+Bases tecnológicas{
+	- Qualidade de Software
+		- CMMI, MRS.BR
+	- Testes dos mesmos
+	- Processo de teste
+	- Ferramentas e execução de testes
+
+	- Organização de manual sobre o software 
+		- em caso de troca de cargo etc.
+		- importância do comentário vem forte
+		- sem "se virar" aeeeeeee
+	- Recomendação do Uso do GPT (!??!?!)
+		- Uso de palavras chaves para melhores resultados
+		- Analogia com o manual do software
+			- Quanto + simples, melhor
+	- Automação de testes
+}
+
+Conteúdo programático{
+	- O que entregarmos para o bombs, tem que entregar pra ele avaliar
+	- TCC valendo nota pra krlh agora ehhhhh 
+}
+
+Metodologia{
+	1. Organização do fórum avaliativo de participação do aluno
+	2. Leitura e análise da documentação para resolução dos problemas
+	de simuladores em repositório de dados
+'	3. Esclarecimento de info via chat ou post
+}
+
+Critérios de avaliação{
+	1. Exercício de fixação de conceitos
+	Estudos dirigidos
+	2. Identificação de problemas pessoas de codigo
+	3. TCC GOESSS BURRRRR	
+}
+
+Mapa de """"São Paulo""""}
+	- Mapa de metodologia
+	- Parece mt o mapa metroviárioKKKKKKKKKKKKKKKK
+		- Alá Guaianases
+	- Alguém fez um puta gráfico das metodologias
+		- Caótico, mas fofo
+	- Separado em setores de iniciação, descobrimento, entrega, etc.
+	- "The Agile Landscape V1.pdf"
+	- Fazer pressão no amiguinho até surtar
+}
+
+- WATERFALL VEM AI?!!??
+- Fluxograma de planejamento
+	- Separado em atividades importantes
+
+- Inteligência Multiplas
+	1. Linguistica
+	2, Logico-Matemática
+	3. Visuo-Espacial
+- Levar em consideração isso ao cliente
+
+Neuroticismo
+
+Facetas{
+    - Autoconsciência
+    - Impulsividade
+    - Vulnerabilidade
+    - Ansiedade
+    - Hostilidade
+    - Depressão (pedindo pica)
+}
+
+Facetas da amabilidade{
+    - Confiança
+    - Fraqueza
+    - Altruismo
+    - Complacência
+    - Modéstia
+    - Sensibilidade
+}
+
+- Facetas da conscienciosidade
+
+NEXT CLASS!!
+
+- 4° Revoluação Industrial
+- Análise SWOT
+
+---------------
+22/02 - Atividade GIRA
+
+> Quadradinhos?
+> Auto-conhecimento whatever
+	- Bizoiar nossa evolução
+	- SOMA OS PONTINHOS AEEEEEEEE
+	- Teste de personalidade vibes
+		- Qual alien do Ben 10 você é!??!?!!??!?!??
+	- Nois é Guardião família
+	
+Maiores erros de raciocínio lógico
+
+-> Não acreditar na primeira informação que nós vemos (especialmente na net)
+	- Vamo pesquisar aeeeeee;
+
+-> Perdi;
+
+-> Evitar pensamento coletivo - incentivar o pensamento individual;
+
+-> Viés do ponto cego
+	- Notar mais viéses em outros do que em si mesmos
+	- Auto-reflexão aeeeeee;
+
+-> Encarar a realidade em relação suas próprias escolhas;
+
+-> Falácia do Apostador
+	- Os eventos anteriores ao futuro não determinam sua realidade;
+
+-> Observar apenas as informações que favorecem sua perspectiva;
+
+-> Conformismo
+	- Não se agarram a informações antigas
+	- Mantenha a mente aberta a novas ideias;
+
+-> Com menos dados, as informações podem se tornar mais precisas
+	- Muita informação nem sempre é bom;
+
+-> Não se esconder por causa dos problemas que estão por perto
+	- Tipo avestruz;
+
+-> Não é pq vc ganhou uma fortuna em Las Vegas 
+	 que você pode apostar tudo novamente;
+
+-> Evitar superconfiança;
+
+-> Placebo é real == você acreditar que algo é assim, faz se tornar assim;
+
+-> Tendência a reforçar informações mais recentes do que as antigas
+	-> Obsoleto, mas não inútil
+		-> Foi o que ela disse (bah dum tss)
+
+-> Paradoxo de Fredkin - não perder tempo com coisas banais 
+
+-> Tendemos a criticar/lembrar mais dos erros dos outros, do que os nossos
+
+-> Não levar esteriótipos como informações reais (desceu rasgando essaKKKKKKKKK)
+
+-> Viés de sobrevivência
+	- ter controle sobre as próprias decisões
+
+-> Viés do risco zero
+	- Risco zero não existe, mas nem por isso, nada impede de tentarmos reduzir 
+	  isso ao máximo
+		- Gravidez quando
+
+--------------------------------------------------------------------------------
+
+> Habilidades Comportamentais FODAS
+
+- Comunicação
+- Planejamento
+- Visão sistema
+	- Entender o desafio na totalidade
+- Negociação
+- Liderança
+	- Aparentemente EUUUU
+- Proatividade
+- Trabalho em equipe e relacionamento Interpessoal
+- Atenção e Foco 
+- Resiliência
+	- Persistência
+- Gestão de Riscos (APS Vibes)
+--------------------------------------------------------------------------------
+> Design Thinking
+> PMBOK/PMI
+> BIBLIA DE DS
+-------------------------------------------------------------------------------
+Processo de Testes de Software
+
+- Teste de mesa -> Benchmark
+- Teste de Unidade
+	-> Testar se o campo está recebendo BEM a unidade
+		-> A PK recebendo fração be like
+	- Dígito verificador (?)
+	- Módulo 11
+	- RG -> Soma os valores antes do dígito, subtrai a soma pelo próximo multiplo
+					de 11 e esse número será o dígito do RG
+
+	https://pt.wikipedia.org/wiki/D%C3%ADgito_verificador
+
+- Teste de integração
