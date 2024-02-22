@@ -146,7 +146,8 @@ Maiores erros de raciocínio lógico
 -> Não se esconder por causa dos problemas que estão por perto
 	- Tipo avestruz;
 
--> Não é pq vc ganhou uma fortuna em Las Vegas que você pode apostar tudo novamente;
+-> Não é pq vc ganhou uma fortuna em Las Vegas 
+	 que você pode apostar tudo novamente;
 
 -> Evitar superconfiança;
 
@@ -160,16 +161,17 @@ Maiores erros de raciocínio lógico
 
 -> Tendemos a criticar/lembrar mais dos erros dos outros, do que os nossos
 
--> Não levar esteriótipos como informações reais (desceu rasgando essaKKKKKKKKKKKKKK)
+-> Não levar esteriótipos como informações reais (desceu rasgando essaKKKKKKKKK)
 
 -> Viés de sobrevivência
 	- ter controle sobre as próprias decisões
 
 -> Viés do risco zero
-	- Risco zero não existe, mas nem por isso, nada impede de tentarmos reduzir isso ao máximo
+	- Risco zero não existe, mas nem por isso, nada impede de tentarmos reduzir 
+	  isso ao máximo
 		- Gravidez quando
 
------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 > Habilidades Comportamentais FODAS
 
@@ -186,4 +188,22 @@ Maiores erros de raciocínio lógico
 - Resiliência
 	- Persistência
 - Gestão de Riscos (APS Vibes)
+--------------------------------------------------------------------------------
+> Design Thinking
+> PMBOK/PMI
+> BIBLIA DE DS
+-------------------------------------------------------------------------------
+Processo de Testes de Software
 
+- Teste de mesa -> Benchmark
+- Teste de Unidade
+	-> Testar se o campo está recebendo BEM a unidade
+		-> A PK recebendo fração be like
+	- Dígito verificador (?)
+	- Módulo 11
+	- RG -> Soma os valores antes do dígito, subtrai a soma pelo próximo multiplo
+					de 11 e esse número será o dígito do RG
+
+	https://pt.wikipedia.org/wiki/D%C3%ADgito_verificador
+
+- Teste de integração
