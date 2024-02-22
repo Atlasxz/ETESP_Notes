@@ -207,3 +207,16 @@ Processo de Testes de Software
 	https://pt.wikipedia.org/wiki/D%C3%ADgito_verificador
 
 - Teste de integração
+	> Detectar falhas na interação entre as unidades integradas
+	> Validador de CPF 
+		= PK Vibes
+
+- Teste de Sistemas
+	> ashjdqasdbdvaisvdpçisdvaiudv SLA PERDI ESSA POAWDHJPOGÇAS
+	> Requisitos funcionais & e n-funcionais
+
+- Teste de aceitação
+	> Ultima tarefa do cronograma
+	> Teste se todas as funcionalidades pedidas estão de acordo
+	> DÁ O DINHEIRO AEEEEEEE
+	> Treinamento do usuário
