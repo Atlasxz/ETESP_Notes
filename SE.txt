@@ -94,7 +94,11 @@ Ocilatometro
 
 Planalto e Depressão das corrente
 - Ficam ocilando (isso que o Ocilatometro mostra)
- 
+-------------------------------------------------------------------------------
+Corrente AC & DC
+
+AC -> 60hz
+AC -> + 127 | - 127 
 
 
 
