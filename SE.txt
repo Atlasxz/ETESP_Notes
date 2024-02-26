@@ -100,6 +100,45 @@ Corrente AC & DC
 AC -> 60hz
 AC -> + 127 | - 127 
 
+26/02
+
+Resistores -> Fios de Carbono no meio dos circuitos que estrangulam a corrente
+Reduz a mesma
+
+Tabela de cores - Resistores
+
+https://www.mundodaeletrica.com.br/y/766/3-faixas-600.webp
+
+1º Camada -> Marrom = 1
+2º Camada -> Preta = 0
+3º Camada -> Vermelha = 2
+4° Camada -> Tolerância 
+
+= 1000 Ohms => 1k Ω 
+
+
+1º Camada -> Amarelo = 4
+2º Camada -> Violeta = 7
+3º Camada -> Laranja = 3
+4° Camada -> Tolerância 
+
+47.000 Ohms Ω 
+
+Estudar cores de novo 
+Não fujo delas, misericordia 
+AHSHAHDHASDHSHADHADASDHASHDHASDHASSDHHASDASDHASDHASHDHASDASHASDASDHASDASHDASHDHASDHSH
+
+
+Exercício
+
+1 - 39.000 => 39 kOmns
+2 - 47 Omns => 0.047 kOmns
+3 - 1.500 => 1.5 kOmns
+4 - 100 Omns => 0.100 kOmns
+5 - 2.200 => 2.2 kOmns
+6 - 47.000 => 47 kOmns
+
+
 
 
 
