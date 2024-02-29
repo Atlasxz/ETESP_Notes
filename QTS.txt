@@ -224,5 +224,35 @@ Processo de Testes de Software
 --------------------------------------------
 29/02
 
-- Falhas e Defeitos (Coisas Diferentes)
-- Teste de Unidade
+(Review)
+
+- Falhas e Defeitos (Coisas Diferentes);
+- Teste de Unidade;
+- Teste de Integração;
+- Teste de Sistema;
+- Teste de Aceitação;
+
+Teste de Regressão
+	> Não corresponde a um nivel de teste
+	> Importante para reduzir danos colaterais
+	> Consiste em fazer os mesmos testes a cada ciclo ou nova versão do software
+
+- Teste de Maslo
+	> Algo assim
+	> Pirâmidad de desenvolvimento e de Teste
+
+desenvolvimento
+> Especificação de Requisitos
+> Projeto de alto nível
+> Projeto Detalhado
+
+Perdi o resto
+---------------------------------------------------------
+
+Técnica Estrutural (Caixa Branca)
+Teste Funcional (Caixa-Preta)
+
+- Automação de Testes
+							
+A) Teste de Interface Gráfica;
+B) Teste baseado em código;
