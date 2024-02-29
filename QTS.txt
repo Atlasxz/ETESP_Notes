@@ -220,3 +220,9 @@ Processo de Testes de Software
 	> Teste se todas as funcionalidades pedidas estão de acordo
 	> DÁ O DINHEIRO AEEEEEEE
 	> Treinamento do usuário
+
+--------------------------------------------
+29/02
+
+- Falhas e Defeitos (Coisas Diferentes)
+- Teste de Unidade
