@@ -256,3 +256,52 @@ Teste Funcional (Caixa-Preta)
 							
 A) Teste de Interface Gráfica;
 B) Teste baseado em código;
+
+-------------------------------------------
+
+Diagrama de Venn - Dominio
+
+R - Read
+W - Write
+D - Delete
+
+Método de controle de acesso em bancos 
+
+Modulo Bit - Binário
+
+2^0 -> 2^11
+
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+1024
+2048
+
+---------
+8 Bits
+2^0 - 2^7
+---------
+
+100 -> 4
+010 -> 2
+001 -> 1
+
+111 -> 7
+--------
+Permissões -> Dominio
+help attrib
+
+BMG Canva
+
+Business Model - Canva
+
+Mapa de Empatia do Cliente
+
+https://www.mjvinnovation.com/pt-br/blog/mapa-da-empatia/#:~:text=Nesse%20quadrante%20do%20Mapa%2C%20voc%C3%AA,e%20como%20percebe%20o%20mundo%3F
